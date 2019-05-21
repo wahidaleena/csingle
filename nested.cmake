@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(	arrays arrays.c	)	
+	add_executable(	mysql mysql.c	)	
